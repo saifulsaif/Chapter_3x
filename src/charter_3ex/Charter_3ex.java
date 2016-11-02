@@ -41,10 +41,14 @@ public class Charter_3ex {
       //Number12_check n = new Number12_check();
       //Birthday b = new Birthday();
       //if_condition c = new if_condition();
-      Number14_coin c = new Number14_coin();
+     // Number14_coin c = new Number14_coin();
      // number15_lottery c = new number15_lottery();
       //number17_game n = new number17_game();
       //number16_character n = new number16_character();
+      //number21_year a =  new number21_year();
+     // number22_circle a = new number22_circle();
+     // number23_card a = new number23_card();
+      number26_boolean a = new number26_boolean();
     }
     public static void if_statement(){
     
